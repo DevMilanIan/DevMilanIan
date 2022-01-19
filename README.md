@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevMilanIan
 - 👀 I’m interested in programming for the purpose of problem solving
 - 🌱 I’m currently learning Java/JS/HTML/CSS/Angular/Ionic/etc. honestly
-- 💞️ I’m looking to collaborate on projects that bring something new to the table or are something fun and intuitive
+- 💞️ I’m looking to collaborate on projects that bring something new to the table or are  fun and intuitive
 - 📫 How to reach me discord IanM#2441
 
 <!---
