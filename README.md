@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DevMilanIan
 - 👀 I’m interested in programming for the purpose of problem solving
-- 🌱 Currently learning Java/JS/HTML/CSS/React/Ionic/etc. honestly
+- 🌱 Sometimes learning Java/JS/HTML/CSS/React Native/Python and making a dApp game
 - 💞️ I’m looking to collaborate on projects that bring something new to the table or are fun and intuitive
-- 📫 Reach me on discord IanM#2441
+- 📫 Reach me on discord imdev.eth#2699
 
 <!---
 DevMilanIan/DevMilanIan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
