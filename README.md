@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DevMilanIan or Ian Milan
-- 👀 I’m interested in programming for the purpose of problem solving
-- 🌱 Learning HTML/CSS/React/Next.js/React Native for various projects
-- 💞️ I’m looking to collaborate on ideas that bring something new to the table or are fun and intuitive for everyone
-- 📫 Reach me on discord at IanM#2441
+👋 Hi, I’m Ian or @DevMilanIan
+---
+- 👀 Interested in programming for problem solving and quality of life
+- 🤝 Looking to collaborate on something challenging or fun and intuitive for everyone
+- 📫 Reach me on discord at IanM#2441 or shoot me an email at milanian775@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMilanIan&layout=compact&theme=apprentice&show_icons=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
 <!---
 DevMilanIan/DevMilanIan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
